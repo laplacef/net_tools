@@ -1,5 +1,7 @@
 # Net Tools
 
+<img src="res/ping.gif" alt="PING" width="300px">
+
 Net Tools is a collection of shell functions designed to simplify and streamline various common networking tasks. This toolkit is ideal for system administrators, network engineers, and anyone who frequently works with network configurations and diagnostics in Unix-like environments.
 
 ## Features
